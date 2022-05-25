@@ -2,7 +2,7 @@ print("Rat CHef")
 day = 1
 lose = 0
 #Ratchef alpha v1
-#Basic framework, more of a random clicker than a game
+#Basic framework, more of a random simulator than a game
 
 print("Ratchef, search for rats everyday and dont run out of money")
 print("Controls - Enter")
